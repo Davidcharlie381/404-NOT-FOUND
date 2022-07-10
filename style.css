@@ -81,6 +81,10 @@ button:hover {
     background-color: #FF6D5B;
 }
 
+footer {
+    margin-bottom: 30px;
+}
+
 footer p {
     font-size: 14px;
     font-family: 'Montserrat', sans-serif;
